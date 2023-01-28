@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://ankurdivekar.github.io/nbdev-tutorial"
+  description: "An overview of all the steps in using nbdev effectively. Built mostly as a ready reckoner for myself."
+  repo-branch: main
+  repo-url: "https://github.com/ankurdivekar/nbdev-tutorial"
